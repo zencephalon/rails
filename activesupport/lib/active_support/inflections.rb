@@ -60,6 +60,7 @@ module ActiveSupport
 
     inflect.irregular('person', 'people')
     inflect.irregular('man', 'men')
+    inflect.irregular('human', 'humans')
     inflect.irregular('child', 'children')
     inflect.irregular('sex', 'sexes')
     inflect.irregular('move', 'moves')
